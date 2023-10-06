@@ -71,4 +71,4 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
-- Your Name - Initial work - [Andrej Petrovcic](https://github.com/secret-point0418/user-manager.git)
+- [Andrej Petrovcic](https://github.com/secret-point0418/user-manager)
