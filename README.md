@@ -53,7 +53,7 @@ Add additional notes about how to deploy this on a live system
 
 - [Spring Boot](https://spring.io/projects/spring-boot) - The framework used
 - [Kotlin](https://kotlinlang.org/) - Language
-- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - Database
+- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - MognDB uri (mongodb+srv://andrej:d3y9X6WYOrTdzR1u@cluster0.udyh3lj.mongodb.net/user-management)
 
 **Frontend:**
 
